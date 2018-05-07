@@ -1,0 +1,10 @@
+{
+  "name": "scaffold-wordpress",
+  "version": "0.4.2",
+  "main": "index.js",
+  "author": "supertaihei02 <>",
+  "license": "MIT",
+  "scripts": {},
+  "devDependencies": {},
+  "dependencies": {}
+}
